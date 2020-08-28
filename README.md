@@ -241,4 +241,4 @@ If you'd rather read the whole legal text, it should be included as `privex_cont
 
 **If this project has helped you, consider [grabbing a VPS or Dedicated Server from Privex](https://www.privex.io).**
 
-**Prices start at as little as US$8/mo (we take cryptocurrency!)**
+**Prices start at as little as US$0.99/mo (we take cryptocurrency!)**
